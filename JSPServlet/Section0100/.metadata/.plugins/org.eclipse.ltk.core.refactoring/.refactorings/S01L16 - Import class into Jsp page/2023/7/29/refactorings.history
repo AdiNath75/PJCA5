@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.studyeasy&apos; to &apos;org.nath&apos;&#x0D;&#x0A;- Original project: &apos;S01L16 - Import class into Jsp page&apos;&#x0D;&#x0A;- Original element: &apos;S01L16 - Import class into Jsp page/src/org.studyeasy&apos;&#x0D;&#x0A;- Renamed element: &apos;S01L16 - Import class into Jsp page/src/org.nath&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.studyeasy&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.studyeasy" name="org.nath" qualified="false" references="true" stamp="1689853420446" textual="false" version="1.0"/>
+</session>

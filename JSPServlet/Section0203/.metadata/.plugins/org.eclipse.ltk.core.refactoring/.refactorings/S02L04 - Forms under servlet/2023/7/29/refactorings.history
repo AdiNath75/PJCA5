@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.studyeasy.servlet&apos; to &apos;org.nath.servlet&apos;&#x0D;&#x0A;- Original project: &apos;S02L04 - Forms under servlet&apos;&#x0D;&#x0A;- Original element: &apos;S02L04 - Forms under servlet/src/org.studyeasy.servlet&apos;&#x0D;&#x0A;- Renamed element: &apos;S02L04 - Forms under servlet/src/org.nath.servlet&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.studyeasy.servlet&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.studyeasy.servlet" name="org.nath.servlet" qualified="false" references="true" stamp="1689856420619" textual="false" version="1.0"/>
+</session>

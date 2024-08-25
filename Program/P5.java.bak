@@ -1,0 +1,12 @@
+class P5
+{
+	public static void main(String[] args) 
+	{
+		int distance = 350;
+		int time = 180;
+		int t = time/60;
+		double speed = distance/t;
+		System.out.println(speed);
+
+	}
+}

@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1291585761.index
+\S04L05 - User logout (using session attribute)\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2670282951.index
+\S04L09 - Servlet Filters\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\322764551.index
+\S04L06 - Organising the application\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3414573894.index
+\S04L01 - Session under JSP overview\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3277110332.index
+\S04L03 - Read and write operation of cookie\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2631409398.index
+\S04L08 - Handling session without cookie\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2779504042.index
+\S04L04 - User logout (Via cookie)\src
+D:\PJCA5\JSPServlet\Section04\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3951837455.index
+\S04L07 - Fixing Redirect and forward links\src

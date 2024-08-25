@@ -1,0 +1,19 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\747605982.index
+\S08L01 - Adding Sample XML file\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2101338821.index
+\S07L02 - JSTL trim and escapeXml function\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3508349266.index
+\S08L02 - JSTL XML Parse and Out tag\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\815178807.index
+\S08L03 - JSTL XML ForEach and If tag\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1251852037.index
+\S07L04 - JSTL even more functions\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4089582441.index
+\S08L04 - JSTL XML Choose When otherwise\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3639821155.index
+\S07L05 - JSTL Split and Join function\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\371966268.index
+\S07L01 - JSTL length function\src
+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1097637048.index
+\S07L03 - JSTL more functions\src

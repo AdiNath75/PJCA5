@@ -1,0 +1,20 @@
+INDEX VERSION 1.134+D:\PJCA5\JSPServlet\Section0708\.metadata\.plugins\org.eclipse.jdt.core
+2264055410.index
+3071835737.index
+2894692197.index
+2356273301.index
+1535912301.index
+637355311.index
+1014349951.index
+2127225813.index
+1865797976.index
+3258877859.index
+937852412.index
+1763338278.index
+990584238.index
+479154654.index
+4153883047.index
+2172042956.index
+530199008.index
+2017778628.index
+1457530005.index

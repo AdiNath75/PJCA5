@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 11 resources" deleteContents="false" description="Delete 11 resources" element1="/S05L01 - JSTL Settingup" element10="/S05L10 - JSTL URL and redirect tag" element11="/S05L11 - JSTL catch tag" element2="/S05L02 -JSTL set and remove tags" element3="/S05L03 - Reading from Bean using Expression Language" element4="/S05L04 - Decision making under JSTL" element5="/S05L05 - JSTL Choose and when tags" element6="/S05L06 - JSTL for loop" element7="/S05L07 - JSTL forEach loop" element8="/S05L08 - JSTL forTokens" element9="/S05L09 - JSTL import and param tag" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="11" stamp="1690350941065"/>
+</session>

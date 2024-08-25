@@ -1,0 +1,17 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2994089048.index
+\S13L02 - Integrate template with project\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1937678609.index
+\S10L02 - Adding properties\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4106164988.index
+\S13L03 - Integrate template with project using JSTL\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\182098233.index
+\S10L03 - Integration with website (i18n)\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1315561418.index
+\S13L03 - Integrate template with project using JSTL\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2114511975.index
+\S10L01 - Setting up\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1920981374.index
+\S12L01 - Building custom tag\src
+D:\PJCA5\JSPServlet\Section0914\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2378459049.index
+\S13L02 - Integrate template with project\src

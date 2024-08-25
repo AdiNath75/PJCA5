@@ -1,0 +1,25 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\449758217.index
+\S01L14 - Reading URL parameter(s)\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3213607839.index
+\S01L08 - JSP scriptlets\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\527965134.index
+\S01L13 - JSP configuration in deployment descriptor\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1167589193.index
+\S01L05 - Hello JSP\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3506336486.index
+\S01L09 - JSP declarations\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3694262767.index
+\S01L15 - Include file(s) in JSP page\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1319734846.index
+\S01L17 - Forward and redirect under JSP\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\31814435.index
+\S01L07 - JSP expressions\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4072845923.index
+\S01L16 - Import class into Jsp page\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2362903763.index
+\S01L10 - JSP comment\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3703873712.index
+\S01L11 - Directive\src
+D:\PJCA5\JSPServlet\Section01\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1402046279.index
+\S01L20 - Basic application based on MVC\src

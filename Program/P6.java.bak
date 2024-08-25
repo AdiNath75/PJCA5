@@ -1,0 +1,19 @@
+import java.util.Scanner;
+class P6
+{
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter distance in KM");
+		int distance = sc.nextInt();
+		System.out.println("Enter time taken in hours");
+		int time = sc.nextInt();
+		float sp1 = distance/time;
+		System.out.println(sp1);
+		float sp2 = distance%time;
+		System.out.println(sp2);
+		float speed = sp1+sp2;
+		System.out.println(speed);
+
+	}
+}

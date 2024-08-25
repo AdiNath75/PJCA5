@@ -1,0 +1,25 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2398837638.index
+\S05L09 - JSTL import and param tag\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3506071969.index
+\S05L07 - JSTL forEach loop\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1044168124.index
+\S05L02 -JSTL set and remove tags\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\622127675.index
+\S05L05 - JSTL Choose and when tags\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1597408396.index
+\S05L10 - JSTL URL and redirect tag\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1332698156.index
+\S05L09 - JSTL import and param tag\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3868824420.index
+\S05L11 - JSTL catch tag\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3249107017.index
+\S06L01 - Good to know information\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3027252977.index
+\S05L03 - Reading from Bean using Expression Language\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2246851184.index
+\S05L08 - JSTL forTokens\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2904006125.index
+\S05L06 - JSTL for loop\src
+D:\PJCA5\JSPServlet\Section05\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\563494650.index
+\S05L04 - Decision making under JSTL\src

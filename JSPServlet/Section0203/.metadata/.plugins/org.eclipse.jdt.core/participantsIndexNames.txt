@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2788972057.index
+\S03L03 - Request scope\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\521219107.index
+\S03L02 - Bean scope types\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2901596891.index
+\S03L04 - Beans with web forms\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\116554863.index
+\S02L05 -  Basic form validations\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2268729380.index
+\S02L04 - Forms under servlet\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2072197171.index
+\S03L01 - Beans overview\src
+D:\PJCA5\JSPServlet\Section02\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3773377677.index
+\S02L03 - Forms under JSP\src
